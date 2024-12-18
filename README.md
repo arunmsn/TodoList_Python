@@ -1,13 +1,13 @@
 # TodoList_Python
 
 ## About  
-This is a ToDo List application that allows users to manage tasks with the following features:
-Add tasks with title, description, and priority levels
-Update task status and priority
-- Delete tasks
-- List tasks in different views (by index, priority, filtered by status, due date, or by time frame)
-- Persistent storage using a text file
-- Priority-based task organization
+This is a ToDo List application that allows users to manage tasks with the following features:  
+Add tasks with title, description, and priority levels  
+Update task status and priority  
+Delete tasks  
+List tasks in different views (by index, priority, filtered by status, due date, or by time frame)  
+Persistent storage using a text file  
+Priority-based task organization
 
 ## Main Classes and Methods:
 Node: Basic node structure for linked list
